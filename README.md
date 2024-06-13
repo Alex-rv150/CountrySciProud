@@ -4,3 +4,5 @@ Explore "Proyecto CountrySciProd" by AlexanderRV22 on Observable, a comprehensiv
 In this case we use the logarithmic scale to color the map. People who want to color according to their own frequencies can edit the file in use.
 
 View the full project [here](https://observablehq.com/d/0e8735a115d6d3f7).
+
+![Logo](https://www.example.com/logo.png)
