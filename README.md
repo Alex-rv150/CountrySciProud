@@ -5,4 +5,4 @@ In this case we use the logarithmic scale to color the map. People who want to c
 
 View the full project [here](https://observablehq.com/d/0e8735a115d6d3f7).
 
-![Logo](https://www.example.com/logo.png)
+![Logo](chart.svg)
